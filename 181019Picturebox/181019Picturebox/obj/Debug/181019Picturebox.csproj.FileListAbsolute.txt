@@ -1,0 +1,9 @@
+D:\NTPOrnekler\181019Picturebox\181019Picturebox\bin\Debug\181019Picturebox.exe.config
+D:\NTPOrnekler\181019Picturebox\181019Picturebox\bin\Debug\181019Picturebox.exe
+D:\NTPOrnekler\181019Picturebox\181019Picturebox\bin\Debug\181019Picturebox.pdb
+D:\NTPOrnekler\181019Picturebox\181019Picturebox\obj\Debug\_181019Picturebox.Form1.resources
+D:\NTPOrnekler\181019Picturebox\181019Picturebox\obj\Debug\_181019Picturebox.Properties.Resources.resources
+D:\NTPOrnekler\181019Picturebox\181019Picturebox\obj\Debug\181019Picturebox.csproj.GenerateResource.Cache
+D:\NTPOrnekler\181019Picturebox\181019Picturebox\obj\Debug\181019Picturebox.exe
+D:\NTPOrnekler\181019Picturebox\181019Picturebox\obj\Debug\181019Picturebox.pdb
+D:\NTPOrnekler\181019Picturebox\181019Picturebox\obj\Debug\181019Picturebox.csprojResolveAssemblyReference.cache

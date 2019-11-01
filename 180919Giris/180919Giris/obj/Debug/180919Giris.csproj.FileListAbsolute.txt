@@ -1,0 +1,9 @@
+D:\NTPOrnekler\180919Giris\180919Giris\bin\Debug\180919Giris.exe.config
+D:\NTPOrnekler\180919Giris\180919Giris\obj\Debug\180919Giris.csprojResolveAssemblyReference.cache
+D:\NTPOrnekler\180919Giris\180919Giris\obj\Debug\_180919Giris.Form1.resources
+D:\NTPOrnekler\180919Giris\180919Giris\obj\Debug\_180919Giris.Properties.Resources.resources
+D:\NTPOrnekler\180919Giris\180919Giris\obj\Debug\180919Giris.csproj.GenerateResource.Cache
+D:\NTPOrnekler\180919Giris\180919Giris\bin\Debug\180919Giris.exe
+D:\NTPOrnekler\180919Giris\180919Giris\bin\Debug\180919Giris.pdb
+D:\NTPOrnekler\180919Giris\180919Giris\obj\Debug\180919Giris.exe
+D:\NTPOrnekler\180919Giris\180919Giris\obj\Debug\180919Giris.pdb

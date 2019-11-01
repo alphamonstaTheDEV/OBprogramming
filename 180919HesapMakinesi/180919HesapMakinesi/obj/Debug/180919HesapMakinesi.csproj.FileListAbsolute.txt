@@ -1,0 +1,9 @@
+D:\NTPOrnekler\180919HesapMakinesi\180919HesapMakinesi\bin\Debug\180919HesapMakinesi.exe.config
+D:\NTPOrnekler\180919HesapMakinesi\180919HesapMakinesi\bin\Debug\180919HesapMakinesi.exe
+D:\NTPOrnekler\180919HesapMakinesi\180919HesapMakinesi\bin\Debug\180919HesapMakinesi.pdb
+D:\NTPOrnekler\180919HesapMakinesi\180919HesapMakinesi\obj\Debug\180919HesapMakinesi.csprojResolveAssemblyReference.cache
+D:\NTPOrnekler\180919HesapMakinesi\180919HesapMakinesi\obj\Debug\_180919HesapMakinesi.Form1.resources
+D:\NTPOrnekler\180919HesapMakinesi\180919HesapMakinesi\obj\Debug\_180919HesapMakinesi.Properties.Resources.resources
+D:\NTPOrnekler\180919HesapMakinesi\180919HesapMakinesi\obj\Debug\180919HesapMakinesi.csproj.GenerateResource.Cache
+D:\NTPOrnekler\180919HesapMakinesi\180919HesapMakinesi\obj\Debug\180919HesapMakinesi.exe
+D:\NTPOrnekler\180919HesapMakinesi\180919HesapMakinesi\obj\Debug\180919HesapMakinesi.pdb

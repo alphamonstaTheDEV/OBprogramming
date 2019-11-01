@@ -1,0 +1,9 @@
+D:\NTPOrnekler\250919ListeArama\250919ListeArama\bin\Debug\250919ListeArama.exe.config
+D:\NTPOrnekler\250919ListeArama\250919ListeArama\bin\Debug\250919ListeArama.exe
+D:\NTPOrnekler\250919ListeArama\250919ListeArama\bin\Debug\250919ListeArama.pdb
+D:\NTPOrnekler\250919ListeArama\250919ListeArama\obj\Debug\250919ListeArama.csprojResolveAssemblyReference.cache
+D:\NTPOrnekler\250919ListeArama\250919ListeArama\obj\Debug\_250919ListeArama.Form1.resources
+D:\NTPOrnekler\250919ListeArama\250919ListeArama\obj\Debug\_250919ListeArama.Properties.Resources.resources
+D:\NTPOrnekler\250919ListeArama\250919ListeArama\obj\Debug\250919ListeArama.csproj.GenerateResource.Cache
+D:\NTPOrnekler\250919ListeArama\250919ListeArama\obj\Debug\250919ListeArama.exe
+D:\NTPOrnekler\250919ListeArama\250919ListeArama\obj\Debug\250919ListeArama.pdb
